@@ -43,6 +43,10 @@
   </tr>
 </table>
 
+## Quick Links
+
+[Welcome to Phase 2](./resources/welcome_to_phase2.md)
+
 ## Weekly Groups
 
 <- FILL IN DETAILS HERE ->
