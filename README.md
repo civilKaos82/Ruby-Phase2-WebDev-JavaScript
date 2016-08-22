@@ -46,6 +46,7 @@
 ## Quick Links
 
 [Welcome to Phase 2](./resources/welcome_to_phase2.md)
+[Mentor Info](resources/mentors.md)
 
 ## Weekly Groups
 
