@@ -55,12 +55,10 @@
 
 ## Weekly Cadence
 
-- Yoga: <- FILL IN DETAILS HERE ->
-- Engineering Empathy: Tuesdays at <- FILL IN DETAILS HERE ->
-  - Week One <- FILL IN DETAILS HERE ->
-  - Week Two <- FILL IN DETAILS HERE ->
-  - Week Three <- FILL IN DETAILS HERE ->
-- Careers Checkin: <- FILL IN DETAILS HERE ->
+- Yoga: Monday, Wednesday, Friday at 12:30pm (OPTIONAL)
+- Engineering Empathy: Thursdays at 4:30-6:00pm
+  - Week One: Allyship and Diversity
+  - Week Two Difficult Conversations
 - Assessment: Third Wednesday starting in the morning
   - "The Challenge" - All day (break for lunch, as usual)
   - "Code Review" - 30 minute blocks starting Thursday morning
