@@ -78,6 +78,10 @@ Time         | Activity
 
 ## Additional Resources
 
+- [How to Submit a Challenge](./resources/how-to-submit.md)
 - [Resource Links](resources/)
 - [Mentoring Signup](http://mentoring.devbootcamp.com/)
+- [Readings](./readings/)
 - Counseling Signup <- FILL IN DETAILS HERE ->
+
+![Tried Everything](resources/everything.jpg)
