@@ -49,7 +49,7 @@
 
 ## Weekly Groups
 
-<- FILL IN DETAILS HERE ->
+[Groups](groups.md)
 
 ## Weekly Cadence
 
