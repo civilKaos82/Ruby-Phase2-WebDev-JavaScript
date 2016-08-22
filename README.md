@@ -65,17 +65,16 @@
 
 ## Daily Cadence
 
-Time    | Activity
----     | ---
-<- FILL IN DETAILS HERE -> | Check in with accountability buddies
-<- FILL IN DETAILS HERE -> | Morning Announcements
-<- FILL IN DETAILS HERE -> | Daily Progress Checkin
-<- FILL IN DETAILS HERE -> | Challenges/Breakouts
-<- FILL IN DETAILS HERE -> | Lunch
-<- FILL IN DETAILS HERE -> | Afternoon Announcements
-<- FILL IN DETAILS HERE -> | Challenges/Breakouts
-<- FILL IN DETAILS HERE -> | End of core hours
-<- FILL IN DETAILS HERE -> | After hours learning/mentoring/solo time
+Time         | Activity
+---          | ---
+8:45         | Check in with accountability buddies
+9:00 - 9:15  | Morning Announcements
+9:15 - 12:30 | Challenges
+12:30 - 2:00 | Lunch
+2:00 - 2:15  | School Announcements
+2:30 - 5:30  | Challenges/Breakouts
+6:00         | End of core hours
+6:00 - ???   | After hours learning/mentoring/solo time
 
 ## Additional Resources
 
