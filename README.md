@@ -51,7 +51,7 @@
 
 ## Weekly Groups
 
-[Groups](groups.md)
+Find your weekly groups [here](./resources/groups.md)
 
 ## Weekly Cadence
 
@@ -82,6 +82,6 @@ Time         | Activity
 - [Resource Links](resources/)
 - [Mentoring Signup](http://mentoring.devbootcamp.com/)
 - [Readings](./readings/)
-- Counseling Signup <- FILL IN DETAILS HERE ->
+- Counseling Signup [here](https://calendar.google.com/calendar/selfsched?sstoken=UUtlMklHMndhVjZyfGRlZmF1bHR8MmQzZTlhZTJmMDYxYWU2ZDE0MTZjMTk0MzI2Yzg0NDE)
 
 ![Tried Everything](resources/everything.jpg)
