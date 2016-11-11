@@ -76,6 +76,7 @@ Time         | Activity
 6:00         | End of core hours
 6:00 - ???   | After hours learning/mentoring/solo time
 
+
 ## Additional Resources
 
 - [How to Submit a Challenge](./resources/how-to-submit.md)
