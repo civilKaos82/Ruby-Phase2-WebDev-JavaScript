@@ -55,7 +55,6 @@ Find your weekly groups [here](./resources/groups.md)
 
 ## Weekly Cadence
 
-- Yoga: Monday, Wednesday, Friday at 12:30pm (OPTIONAL)
 - Engineering Empathy: Thursdays at 4:30-6:00pm
   - Week One: Allyship and Diversity
   - Week Two Difficult Conversations
