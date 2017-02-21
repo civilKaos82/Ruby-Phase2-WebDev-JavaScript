@@ -59,6 +59,9 @@ Find your weekly groups [here](./resources/groups.md)
 - Engineering Empathy: Thursdays at 4:30-6:00pm
   - Week One: Allyship and Diversity
   - Week Two Difficult Conversations
+- Careers Workshop: 
+  - Week Two: Monday at 9:00 - 11:00 : Resume & LinkedIn
+  - Week Three: Thursday at 9am - 11am : Outreach & Networking
 - Assessment: Third Wednesday starting in the morning
   - "The Challenge" - All day (break for lunch, as usual)
   - "Code Review" - 30 minute blocks starting Thursday morning
