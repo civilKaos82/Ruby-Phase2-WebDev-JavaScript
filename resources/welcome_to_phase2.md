@@ -66,7 +66,7 @@ Make a habit to spend 10-20 minutes each day this week to read through these lin
 
 ### Sinatra:
 
-The [Snitching on Sinatra](../../../../snitching-on-sinatra) tutorial will help you get an understanding of basic HTTP and Sinatra. The Sinatra [readme](http://www.sinatrarb.com/intro.html) is also an excellent source of information if you want more.
+The [Snitching on Sinatra](../../../../snitching-on-sinatra-challenge) tutorial will help you get an understanding of basic HTTP and Sinatra. The Sinatra [readme](http://www.sinatrarb.com/intro.html) is also an excellent source of information if you want more.
 
 ### Phase Guide:
 
