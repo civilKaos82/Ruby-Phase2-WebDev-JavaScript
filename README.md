@@ -58,7 +58,7 @@ Find your weekly groups [here](./resources/groups.md)
 - Engineering Empathy: Thursdays at 4:30-6:00pm
   - Week One: Allyship and Diversity
   - Week Two Difficult Conversations
-- Careers Workshop: 
+- Careers Workshop:
   - Week Two: Monday at 9:00 - 11:00 : Resume & LinkedIn
   - Week Three: Thursday at 9am - 11am : Outreach & Networking
 - Assessment: Third Wednesday starting in the morning
@@ -85,6 +85,5 @@ Time         | Activity
 - [Resource Links](resources/)
 - [Mentoring Signup](http://mentoring.devbootcamp.com/)
 - [Readings](./readings/)
-- Counseling Signup [here](https://calendar.google.com/calendar/selfsched?sstoken=UUtlMklHMndhVjZyfGRlZmF1bHR8MmQzZTlhZTJmMDYxYWU2ZDE0MTZjMTk0MzI2Yzg0NDE)
 
 ![Tried Everything](resources/everything.jpg)
