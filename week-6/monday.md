@@ -4,6 +4,8 @@
 
 _Careers Preparation: This week's topic is: **Organizing Your Job Search**_
 
+_Last 90 Minutes of the Day_: EE: "Difficult Conversations"
+
 ### Core
 
 **Demonstration of Sinatra Overflow Applications**

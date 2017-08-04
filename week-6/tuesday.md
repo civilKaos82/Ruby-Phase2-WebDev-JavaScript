@@ -2,8 +2,6 @@
 
 ### Review Day
 
-_Last 90 Minutes of the Day_: EE: "Team Dynamics"
-
 ### Core
 
 **Challenges - CRUD & Sintatra**

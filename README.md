@@ -55,9 +55,10 @@ Find your weekly groups [here](./resources/groups.md)
 
 ## Weekly Cadence
 
-- Engineering Empathy: Thursdays at 4:30-6:00pm
-  - Week One: Allyship and Diversity
-  - Week Two Difficult Conversations
+- Engineering Empathy: 
+  - Week One: Allyship and Diversity, Part 1 - Thursday 4:30-6:00pm
+  - Week Two: Allyship and Diversity, Part 2 - Thursday 4:30-6:00pm
+  - Week Three: Difficult Conversations - Monday 4:30-6:00pm
 - Careers Workshop:
   - Week Two: Monday at 9:00 - 11:00 : Resume & LinkedIn
   - Week Three: Thursday at 9am - 11am : Outreach & Networking
