@@ -43,11 +43,16 @@
   </tr>
 </table>
 
+
 ## Quick Links
 
 [Welcome to Phase 2](./resources/welcome_to_phase2.md)
 • [Mentor Info](resources/mentors.md)
 • [Pair Feedback](#askYourLeadToFixThis)
+
+## Self-Check Questions
+
+[Here](./resources/self-check-questions.md) you will find a list of self-check questions to guide your conceptual understanding this phase. As the phase progresses, answer these questions.  If you find yourself with gaps do some research and check in with your instructors/advisor to fill them in! 
 
 ## Weekly Groups
 
