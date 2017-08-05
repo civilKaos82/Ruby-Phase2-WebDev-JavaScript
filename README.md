@@ -48,7 +48,7 @@
 
 [Welcome to Phase 2](./resources/welcome_to_phase2.md)
 • [Mentor Info](resources/mentors.md)
-• [Pair Feedback](#askYourLeadToFixThis)
+• [Pair Feedback](https://docs.google.com/forms/d/e/1FAIpQLSfL29-44c8sSuCsCTOXGucN6Pvq3Hy-odOA08eRzeqHwssgng/viewform)
 
 ## Self-Check Questions
 
