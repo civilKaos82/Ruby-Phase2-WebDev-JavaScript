@@ -6,11 +6,11 @@
  - Rio nose <==> Scott Fulton
  - Peter Thompson <==> Ricky Veltri
  - Michael Glaser <==> Nestor Ceron
- - J Stamps <==> Mark de Dios
- - Jennifer Shopsin <==> Josh Nickell
+ - J Stamps <==> Josh Nickell
+ - Jennifer Shopsin <==> Mark de Dios
  - Ikuko Schoeller <==> Jenna Ritten
  - Hannie Dong <==> Hawken Ritter
- - Fulton Zink <==> Gloria Cruz
+ - Joey Zink <==> Gloria Cruz
  - Augusto Azevedo <==> Filmon Mengisteab
 
 ## Tuesday
@@ -18,7 +18,7 @@
  - Angela Rivera <==> Augusto Azevedo
  - Ricky Veltri <==> Rio nose <==> Nestor Ceron
  - Gloria Cruz <==> Garima Jain
- - Fulton Zink <==> Hawken Ritter
+ - Joey Zink <==> Hawken Ritter
  - Michael Glaser <==> Peter Thompson
  - Ashley Teow <==> Scott Fulton
  - Filmon Mengisteab <==> Mark de Dios
@@ -33,7 +33,7 @@
  - Ashley Teow <==> Rio nose
  - J Stamps <==> Michael Glaser
  - Josh Nickell <==> Scott Fulton
- - Fulton Zink <==> Ikuko Schoeller <==> Mark de Dios
+ - Joey Zink <==> Ikuko Schoeller <==> Mark de Dios
  - Hawken Ritter <==> Garima Jain
  - Jennifer Shopsin <==> Ricky Veltri
  - Gloria Cruz <==> Hannie Dong
@@ -41,7 +41,7 @@
 
 ## Thursday
 
- - Angela Rivera <==> Fulton Zink
+ - Angela Rivera <==> Joey Zink
  - Jennifer Shopsin <==> Michael Glaser
  - Peter Thompson <==> Garima Jain
  - Hannie Dong <==> Mark de Dios
@@ -54,7 +54,7 @@
 
 ## Friday
 
- - Angela Rivera <==> Gloria Cruz <==> Fulton Zink <==> Garima Jain
+ - Angela Rivera <==> Gloria Cruz <==> Joey Zink <==> Garima Jain
  - Ashley Teow <==> Hawken Ritter <==> Michael Glaser <==> Rio nose <==> Jenna Ritten
  - Filmon Mengisteab <==> Hannie Dong <==> Josh Nickell <==> J Stamps
  - Mark de Dios <==> Scott Fulton <==> Ikuko Schoeller <==> Ricky Veltri
@@ -67,7 +67,7 @@
  - Angela Rivera <==> Hawken Ritter
  - Augusto Azevedo <==> Scott Fulton
  - Filmon Mengisteab <==> Michael Glaser
- - Fulton Zink <==> J Stamps
+ - Joey Zink <==> J Stamps
  - Hannie Dong <==> Peter Thompson
  - Ikuko Schoeller <==> Rio nose <==> Jennifer Shopsin
  - Jenna Ritten <==> Garima Jain
@@ -81,7 +81,7 @@
  - Hawken Ritter <==> Garima Jain
  - Augusto Azevedo <==> Peter Thompson
  - Filmon Mengisteab <==> Ricky Veltri
- - Fulton Zink <==> Rio nose
+ - Joey Zink <==> Rio nose
  - Hannie Dong <==> Nestor Ceron
  - Jenna Ritten <==> Mark de Dios
  - Josh Nickell <==> Michael Glaser
@@ -94,7 +94,7 @@
 
  - Angela Rivera <==> Jenna Ritten <==> Hawken Ritter <==> Ricky Veltri
  - Augusto Azevedo <==> Gloria Cruz <==> Filmon Mengisteab <==> Scott Fulton <==> Garima Jain
- - Jennifer Shopsin <==> Rio nose <==> Fulton Zink <==> Michael Glaser
+ - Jennifer Shopsin <==> Rio nose <==> Joey Zink <==> Michael Glaser
  - Ashley Teow <==> Peter Thompson <==> Ikuko Schoeller <==> Mark de Dios
  - Hannie Dong <==> J Stamps <==> Josh Nickell <==> Nestor Ceron
 
@@ -107,11 +107,11 @@
  - Ashley Teow <==> Augusto Azevedo
  - Ikuko Schoeller <==> Garima Jain
  - Jenna Ritten <==> Nestor Ceron
- - Fulton Zink <==> Jennifer Shopsin
+ - Joey Zink <==> Jennifer Shopsin
  - Gloria Cruz <==> Michael Glaser
  - Peter Thompson <==> Rio nose
- - J Stamps <==> Scott Fulton <==> Mark de Dios
- - Filmon Mengisteab <==> Hawken Ritter
+ - J Stamps <==> Scott Fulton <==> Hawken Ritter
+ - Filmon Mengisteab <==> Mark de Dios
 
  ## Tuesday
 
@@ -119,7 +119,7 @@
  - Filmon Mengisteab <==> Ikuko Schoeller
  - Gloria Cruz <==> Jennifer Shopsin
  - Hawken Ritter <==> Nestor Ceron
- - Ashley Teow <==> Fulton Zink
+ - Ashley Teow <==> Joey Zink
  - Augusto Azevedo <==> Hannie Dong
  - Mark de Dios <==> Rio nose <==> Garima Jain
  - Josh Nickell <==> Peter Thompson
