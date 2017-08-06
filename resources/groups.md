@@ -22,9 +22,9 @@
  - Michael Glaser <==> Peter Thompson
  - Ashley Teow <==> Scott Fulton
  - Filmon Mengisteab <==> Mark de Dios
- - Jennifer Shopsin <==> J Stamps
+ - Jennifer Shopsin <==> Hannie Dong
  - Ikuko Schoeller <==> Josh Nickell
- - Hannie Dong <==> Jenna Ritten
+ - J Stamps <==> Jenna Ritten
 
 ## Wednesday ( Optional SOLO Day )
 
@@ -42,8 +42,8 @@
 ## Thursday
 
  - Angela Rivera <==> Joey Zink
- - Jennifer Shopsin <==> Michael Glaser
- - Peter Thompson <==> Garima Jain
+ - Jennifer Shopsin <==> Garima Jain
+ - Peter Thompson <==> Michael Glaser
  - Hannie Dong <==> Mark de Dios
  - Jenna Ritten <==> J Stamps <==> Scott Fulton
  - Gloria Cruz <==> Hawken Ritter
@@ -85,8 +85,8 @@
  - Hannie Dong <==> Nestor Ceron
  - Jenna Ritten <==> Mark de Dios
  - Josh Nickell <==> Michael Glaser
- - Gloria Cruz <==> Scott Fulton
- - Ashley Teow <==> Jennifer Shopsin <==> J Stamps
+ - Gloria Cruz <==> J Stamps
+ - Ashley Teow <==> Jennifer Shopsin <==> Scott Fulton
 
 ## Wednesday ( Optional SOLO Day )
 
