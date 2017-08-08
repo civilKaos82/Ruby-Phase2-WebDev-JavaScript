@@ -1,6 +1,8 @@
 ## Thursday
 ### Users & Authentication
 
+_Last 90 Minutes of the Day_: EE: "[Disrupting Bias and Microaggressions](../../../../disrupting-bias-and-microaggressions)"
+
 ### Core
 
 **Challenges**
