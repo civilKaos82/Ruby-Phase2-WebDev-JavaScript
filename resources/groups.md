@@ -64,7 +64,7 @@
 
 ## Monday
 
- - Angela Rivera <==> Hawken Ritter
+ - Angela Rivera <==> Ricky Veltri
  - Augusto Azevedo <==> Scott Fulton
  - Filmon Mengisteab <==> Michael Glaser
  - Joey Zink <==> J Stamps
@@ -72,7 +72,7 @@
  - Ikuko Schoeller <==> Rio nose <==> Jennifer Shopsin
  - Jenna Ritten <==> Garima Jain
  - Josh Nickell <==> Mark de Dios
- - Gloria Cruz <==> Ricky Veltri
+ - Gloria Cruz <==> Hawken Ritter
  - Ashley Teow <==> Nestor Ceron
 
 ## Tuesday
