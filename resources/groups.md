@@ -64,15 +64,15 @@
 
 ## Monday
 
- - Angela Rivera <==> Ricky Veltri
+ - Angela Rivera <==> Gloria Cruz
  - Augusto Azevedo <==> Scott Fulton
- - Filmon Mengisteab <==> Michael Glaser
+ - Filmon Mengisteab (Choose your own adventure!)
  - Joey Zink <==> J Stamps
  - Hannie Dong <==> Peter Thompson
- - Ikuko Schoeller <==> Rio nose <==> Jennifer Shopsin
+ - Ikuko Schoeller <==> Rio nose
  - Jenna Ritten <==> Garima Jain
  - Josh Nickell <==> Mark de Dios
- - Gloria Cruz <==> Hawken Ritter
+ - Ricky Veltri <==> Hawken Ritter
  - Ashley Teow <==> Nestor Ceron
 
 ## Tuesday
