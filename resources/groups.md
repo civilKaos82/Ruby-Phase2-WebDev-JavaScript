@@ -92,8 +92,8 @@
 
 ## Thursday and Friday ( Group Projects )
 
- - Angela Rivera <==> Jenna Ritten <==> Hawken Ritter <==> Ricky Veltri
- - Jennifer Shopsin <==> Gloria Cruz <==> Filmon Mengisteab <==> Scott Fulton <==> Garima Jain
+ - Angela Rivera <==> Gloria Cruz <==> Hawken Ritter <==> Ricky Veltri
+ - Jennifer Shopsin <==> Jenna Ritten <==> Filmon Mengisteab <==> Scott Fulton <==> Garima Jain
  - Augusto Azevedo <==> Rio nose <==> Joey Zink <==> Michael Glaser
  - Ashley Teow <==> Peter Thompson <==> Ikuko Schoeller <==> Mark de Dios
  - Hannie Dong <==> J Stamps <==> Josh Nickell <==> Nestor Ceron
