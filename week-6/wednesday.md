@@ -1,6 +1,7 @@
 ## Wednesday
 
 ### Assessment
+[Assessment](https://github.com/sf-pocket-gophers-2017/phase-2-assessment)
 
 ### Core
 
